@@ -1,5 +1,5 @@
 module Specification
-  class FuckDaveBank
+  class WeHateDaveBank
     # this bank wants loans $15000 and over, and if any guarantors are
     # named Dave, they can go fuck themselves.
 
