@@ -1,7 +1,7 @@
 module Specification
   class WeHateDaveBank
     # this bank wants loans $15000 and over, and if any guarantors are
-    # named Dave, they can go fuck themselves.
+    # named Dave, they are denied.
 
     def is_satisfied_by?(loan)
       # note: same method as FoobarBank, this can go in a superclass.
